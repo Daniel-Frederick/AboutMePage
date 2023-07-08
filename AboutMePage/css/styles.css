@@ -105,6 +105,13 @@ header {
   margin-top: 0;
 }
 
+section a {
+  background-color: #e8e9f3;
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
 /* Work Experience */
 .work-experience {
   background-color: #f87060;
