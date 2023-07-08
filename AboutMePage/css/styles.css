@@ -103,6 +103,11 @@ header {
 
 .project-item h3 {
   margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.project-item ul {
+  list-style: none
 }
 
 section a {
